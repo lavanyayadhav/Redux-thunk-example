@@ -1,0 +1,9 @@
+/*
+Higher Orer Function
+     A function that takes another function as an argument or a
+     function with returns a func as a value is called hof
+
+Callback Func
+    A func
+
+*/
